@@ -18,4 +18,5 @@ after the required installation is done , use the run buttton on left top to emu
 Canva Link :
 https://www.canva.com/design/DAFS7wWURX8/7WH7xlogcBEA7qNHVd9_LA/edit?utm_content=DAFS7wWURX8&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 
+Video is in canva as well as zip file
 
