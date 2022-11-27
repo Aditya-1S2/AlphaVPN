@@ -13,3 +13,9 @@ https://developer.android.com/studio
 # How to use
 After Installing android studio , Extract the zip file and open it with open option of android studio.
 after the required installation is done , use the run buttton on left top to emulate it.
+
+#Presentation and Working
+Canva Link :
+https://www.canva.com/design/DAFS7wWURX8/7WH7xlogcBEA7qNHVd9_LA/edit?utm_content=DAFS7wWURX8&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+
+
