@@ -18,5 +18,14 @@ after the required installation is done , use the run buttton on left top to emu
 Canva Link :
 https://www.canva.com/design/DAFS7wWURX8/7WH7xlogcBEA7qNHVd9_LA/edit?utm_content=DAFS7wWURX8&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 
-Video is in canva as well as zip file
+Video is in canva PPT as well as zip file in drive.
+
+
+Semester 3 JAVA Final Project
+Members CSE 4 :
+Aditya Sahu (210548)
+Ekansh Sharma (210259)
+Bhavya Khandelwal (210538)
+Nikhil Utage (210546)
+
 
